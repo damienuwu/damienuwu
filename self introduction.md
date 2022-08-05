@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @damienuwu
 - 👀 I’m interested in a lot of things , one of the things is coding which I'm pretty bad at.
-- 🌱 I’m currently learning C++
+- 🏫 Currently studying Computer Science in local uni.
+- 🌱 I’m currently learning C++ , Java.
 - 📫 Discord : eoos #7703
 
 <!---
